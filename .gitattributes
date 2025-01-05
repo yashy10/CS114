@@ -1,0 +1,5 @@
+*.java linguist-detectable=true
+*.py linguist-detectable=false
+*.zip linguist-vendored
+.DS_Store linguist-vendored
+
